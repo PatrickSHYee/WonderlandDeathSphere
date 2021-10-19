@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\RPGBR.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{67B71D03-6310-4B02-9967-AA33FE5C95CC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RPGBR.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\RPGBREditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{A287A5CD-338D-40FA-8B9D-82D2D80FECF5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\RPGBR">
+      <UniqueIdentifier>{BC0C68ED-0149-44D4-907D-BF613F2E8FF5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RPGBR\CB_GameModeBase.cpp">
+      <Filter>Source\RPGBR</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RPGBR\CB_GameModeBase.h">
+      <Filter>Source\RPGBR</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\RPGBR\RPGBR.Build.cs">
+      <Filter>Source\RPGBR</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\RPGBR\RPGBR.cpp">
+      <Filter>Source\RPGBR</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RPGBR\RPGBR.h">
+      <Filter>Source\RPGBR</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\RPGBR\CB_CameraLogic.cpp">
+      <Filter>Source\RPGBR</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RPGBR\CB_PlayerController.cpp">
+      <Filter>Source\RPGBR</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\RPGBR\CB_CameraLogic.h">
+      <Filter>Source\RPGBR</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RPGBR\CB_PlayerController.h">
+      <Filter>Source\RPGBR</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

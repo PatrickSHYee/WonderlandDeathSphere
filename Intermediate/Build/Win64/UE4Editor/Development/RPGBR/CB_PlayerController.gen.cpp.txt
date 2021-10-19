@@ -1,0 +1,5 @@
+F:\RPGBR\Intermediate\Build\Win64\UE4Editor\Development\RPGBR\Definitions.RPGBR.h
+F:\EpicLibrary\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+F:\EpicLibrary\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+F:\RPGBR\Source\RPGBR/CB_PlayerController.h
+F:\RPGBR\Intermediate\Build\Win64\UE4Editor\Inc\RPGBR\CB_PlayerController.generated.h

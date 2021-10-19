@@ -1,0 +1,2 @@
+F:\RPGBR\Intermediate\Build\Win64\UE4Editor\Development\RPGBR\Definitions.RPGBR.h
+F:\RPGBR\Source\RPGBR\RPGBR.h

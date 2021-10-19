@@ -1,0 +1,7 @@
+F:\RPGBR\Intermediate\Build\Win64\UE4Editor\Development\RPGBR\Definitions.RPGBR.h
+F:\RPGBR\Source\RPGBR\CB_GameModeBase.h
+F:\EpicLibrary\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+F:\EpicLibrary\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+F:\EpicLibrary\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+F:\EpicLibrary\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+F:\RPGBR\Intermediate\Build\Win64\UE4Editor\Inc\RPGBR\CB_GameModeBase.generated.h

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RPGBR",
+			"Path": "F:\\RPGBR\\Source\\RPGBR.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RPGBREditor",
+			"Path": "F:\\RPGBR\\Source\\RPGBREditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

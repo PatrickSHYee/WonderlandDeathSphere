@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\RPGBR\\Source\\RPGBR\\RPGBR.Build.cs",
+		"F:\\RPGBR\\Source\\RPGBR.Target.cs",
+		"F:\\RPGBR\\Source\\RPGBREditor.Target.cs"
+	],
+	"EngineVersion": "4.27.1"
+}
